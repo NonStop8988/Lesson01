@@ -1,0 +1,14 @@
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\lysko\Desktop\Обучение\GeekBrains\Учеба\Основная программа\Разработчик. Основной блок\6. Знакомство с языками программирования\Лекции\Лекция 1\Lesson01\Task1\obj\Debug\net8.0\ref\Task1.dll
